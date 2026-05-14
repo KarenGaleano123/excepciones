@@ -44,12 +44,6 @@ El bloque `finally` se ejecuta siempre, ocurra o no una excepción.
 
 ---
 
-## Ejemplo 4
-
-![Ejemplo 4](images/ejemplo4.png)
-
----
-
 ## Ejemplo 5
 
 ![Ejemplo 5](images/ejemplo5.png)
